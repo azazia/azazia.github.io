@@ -1,0 +1,2 @@
+livesearch jquery
+load hanya bisa GET
